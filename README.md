@@ -4,9 +4,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/alanchriss112114">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanchriss112114&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanchriss112114&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/alanchrissantony">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanchrissantony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <Div style="display: inline_block"><br>
@@ -32,11 +32,11 @@
  
 <div> 
 
- <a href="www.google.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-  <a href="www.google.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-  <a href="www.google.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
-  <a href="www.google.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
-  <a href="www.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-  <a href="www.google.com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a/> 
+ <a href="https://www.linkedin.com/in/alan-chriss-antony-037819223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+  <a href="https://www.instagram.com/alanchrissantony/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+  <a href="https://twitter.com/Alanchrisantony"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+  <a href="https://www.facebook.com/alanchrissantony"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
+  <a href="mailto:alanchrissantony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+  <a href="https://t.me/alanchrissantony"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a/> 
  
 </div>
