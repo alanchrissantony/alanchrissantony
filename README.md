@@ -1,7 +1,7 @@
 <h1 align="center">Alan Chriss Antony<h1/>
-<div>
-[[card](https://github-readme-stats.vercel.app/api?username=alanchrissantony&theme=default)](https://github.com/alanchrissantony/)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alanchrissantony&hide=html&layout=compact&theme=default)](https://github.com/alanchrissantony/)
-<div/>
+
+[![card](https://github-readme-stats.vercel.app/api?username=alanchrissantony&theme=default)](https://github.com/alanchrissantony/)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alanchrissantony&hide=html&layout=compact&theme=default)](https://github.com/alanchrissantony/)
+
 
 ## Hard Skills
 
