@@ -1,12 +1,12 @@
 <div>
-  <h1>Alan Chriss</h1>
+  <h1>Alan Chriss Antony</h1>
   <p> Python Developer</p>
 </div>
 
 <div>
   <a href="https://github.com/alanchrissantony">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanchrissantony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
 </div>
   
 <Div style="display: inline_block"><br>
