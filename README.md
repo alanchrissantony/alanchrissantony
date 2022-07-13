@@ -1,5 +1,5 @@
 <div>
-  <h1>Alan Chriss Antony</h1>
+  <h1>Alan Chris Antony</h1>
   <p> Python Developer</p>
 </div>
 
