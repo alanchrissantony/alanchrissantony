@@ -28,6 +28,7 @@
   <img align="center" alt="Leo-AWS" height="40" width="40" src="https://imgur.com/f3b7uly.png" alt="c++">
   <img align="center" alt="Leo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Leo-Canva" height="50" width="50" src="https://imgur.com/fnn6xC4.png">
+  <img align="center" alt="Leo-Canva" height="50" width="50" src="https://raw.githubusercontent.com/alanchrissantony/devicon/master/icons/arduino/arduino-original.svg">
 </div>
   
  
