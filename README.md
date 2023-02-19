@@ -12,6 +12,7 @@
 <Div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
   <img align="center" alt="Leo-HTML" height="40" width="40" src="https://imgur.com/UCSmwlz.png">
+  <img align="center" alt="Leo-HTML" height="55" width="55" src="https://imgur.com/xCGtEtF.png">
     <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Leo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +28,6 @@
   <img align="center" alt="Leo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Leo-AWS" height="40" width="40" src="https://imgur.com/f3b7uly.png" alt="c++">
   <img align="center" alt="Leo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Canva" height="50" width="50" src="https://imgur.com/fnn6xC4.png">
 </div>
   
  
