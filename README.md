@@ -9,6 +9,11 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
 </div>
   
+<div>
+  <h2>Alan Chris Antony</h2>
+  <p>Hey there, I'm Alan Chris Antony - a passionate Python developer who likes to make weird things with technology. I'm always on the lookout for innovative methods to develop rich experiences and applications that push the limits of what's possible. When I'm not busy coding, you can find me plotting my next great escape from university (just kidding, maybe!). I love python and web development, with a strong emphasis on "Progressive Enhancement". So if you're looking for a passionate developer with a creative edge, look no further!</p>
+</div>
+  
 <Div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
   <img align="center" alt="Leo-HTML" height="40" width="40" src="https://imgur.com/UCSmwlz.png">
