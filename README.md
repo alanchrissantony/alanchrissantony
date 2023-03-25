@@ -10,7 +10,7 @@
 </div>
   
 <div>
-  <h2>Alan Chris Antony</h2>
+  <h2>About me</h2>
   <p>Hey there, I'm Alan Chris Antony - a passionate Python developer who likes to make weird things with technology. I'm always on the lookout for innovative methods to develop rich experiences and applications that push the limits of what's possible. When I'm not busy coding, you can find me plotting my next great escape from university (just kidding, maybe!). I love python and web development, with a strong emphasis on "Progressive Enhancement". So if you're looking for a passionate developer with a creative edge, look no further!</p>
 </div>
   
