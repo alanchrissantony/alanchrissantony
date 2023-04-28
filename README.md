@@ -19,11 +19,7 @@
   <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs" />
   
   <h2>Interesses</h2>
-   <img align="center" alt="Leo-AngularJS" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-  <img align="center" alt="Leo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Leo-AWS" height="40" width="40" src="https://imgur.com/f3b7uly.png" alt="c++">
-  <img align="center" alt="Leo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Canva" height="50" width="50" src="https://imgur.com/fnn6xC4.png">
+   <img src="https://skillicons.dev/icons?i=c,angular,cpp,java,ps" />
 </div>
   
  
