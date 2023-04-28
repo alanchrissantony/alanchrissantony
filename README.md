@@ -16,7 +16,7 @@
   
 <div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
-  [![My Skills](https://skillicons.dev/icons?i=ai,au,pr,xd,ae,ps)](https://skillicons.dev)
+  [My Skills](https://skillicons.dev/icons?i=ai,au,pr,xd,ae,ps)](https://skillicons.dev)
   
   <h2>Interesses</h2>
    <img align="center" alt="Leo-AngularJS" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
