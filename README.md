@@ -16,9 +16,11 @@
   
 <div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
+  <a href="https://github.com/alanchrissantony">
   <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs" />
   
   <h2>Interesses</h2>
+    <a href="https://github.com/alanchrissantony">
    <img src="https://skillicons.dev/icons?i=c,angular,cpp,java,ps" />
 </div>
   
