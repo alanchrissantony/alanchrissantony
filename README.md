@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alanchrissantony.alanchrissantony)
 <div>
   <h1>Alan Chris Antony</h1>
   <p> Python Developer</p>
@@ -39,4 +40,3 @@
   <a href="https://t.me/alanchrissantony"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a/> 
  
 </div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=alanchrissantony.alanchrissantony" />
