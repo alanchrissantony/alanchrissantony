@@ -22,7 +22,7 @@
   
   <h2>Interesses</h2>
     <a href="https://github.com/alanchrissantony">
-   <img src="https://skillicons.dev/icons?i=c,angular,cpp,java,ps" />
+   <img src="https://skillicons.dev/icons?i=figma,c,angular,cpp,java,ps" />
 </div>
   
  
