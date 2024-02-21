@@ -1,6 +1,6 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=alanchrissantony.alanchrissantony)](https://github.com/alanchrissantony)
 <div> 
-  <a href="https://www.linkedin.com/in/alan-chris-antony-037819223/"><img src="https://skillicons.dev/icons?i=linkedin" /><a/>
+  <a href="https://www.linkedin.com/in/alanchrisantony"><img src="https://skillicons.dev/icons?i=linkedin" /><a/>
   <a href="mailto:alanchrissantony@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><a/>
 </div>
 <div>
