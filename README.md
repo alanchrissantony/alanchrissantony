@@ -20,7 +20,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2>Hard Skills</h2>
+  <h2>Languages and Tools</h2>
   <a href="https://github.com/alanchrissantony">
-  <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql,postman,figma" />
 </div>
