@@ -19,10 +19,6 @@
   <h2>Hard Skills</h2>
   <a href="https://github.com/alanchrissantony">
   <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql" />
-  
-  <h2>Interesses</h2>
-    <a href="https://github.com/alanchrissantony">
-   <img src="https://skillicons.dev/icons?i=figma,c,angular,cpp,java,ps" />
 </div>
   
  
