@@ -12,10 +12,6 @@
   <a href="https://github.com/alanchrissantony">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
-  <div height="150em" width="10em" float="left">
-    <img src="https://skillicons.dev/icons?i=py,linux" />
-    <img src="https://skillicons.dev/icons?i=django,firebase" />
-  </div>
 </div>
   
 <div>
