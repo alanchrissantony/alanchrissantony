@@ -22,5 +22,5 @@
 <div style="display: inline_block"><br>
   <h2>Languages and Tools</h2>
   <a href="https://github.com/alanchrissantony">
-  <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql,postman,figma,mongodb" />
 </div>
