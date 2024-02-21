@@ -1,4 +1,8 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=alanchrissantony.alanchrissantony)](https://github.com/alanchrissantony)
+<div> 
+  <a href="https://www.linkedin.com/in/alan-chris-antony-037819223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+  <a href="mailto:alanchrissantony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+</div>
 <div>
   <h1>Alan Chris Antony</h1>
   <h3> Python Developer</h3>
@@ -19,16 +23,4 @@
   <h2>Hard Skills</h2>
   <a href="https://github.com/alanchrissantony">
   <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs,postgresql" />
-</div>
-  
- 
-  
- <h2>Social Networks </h2>
-
- 
-<div> 
-
-  <a href="https://www.linkedin.com/in/alan-chris-antony-037819223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-  <a href="mailto:alanchrissantony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
- 
 </div>
