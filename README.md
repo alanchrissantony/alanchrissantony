@@ -4,7 +4,7 @@
   <a href="mailto:alanchrissantony@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><a/>
 </div>
 <div>
-  <h1>Alan Chris Antony</h1>
+  <h1><img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" style="width: 25px; display: inline-block;">Hey there, I'm Alan Chris Antony</h1>
   <h3> Python Developer</h3>
 </div>
 
