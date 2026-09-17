@@ -12,11 +12,11 @@
   <a href="https://github.com/alanchrissantony">
     <img
       height="150em"
-      src="https://github-readme-stats-wine-six-49.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true"
+      src="https://github-stats-extended.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true"
     />
     <img
       height="150em"
-      src="https://github-readme-stats-wine-six-49.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"
     />
   </a>
 </div>
