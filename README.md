@@ -10,14 +10,8 @@
 
 <div>
   <a href="https://github.com/alanchrissantony">
-    <img
-      height="150em"
-      src="https://github-stats-extended.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true"
-    />
-    <img
-      height="150em"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"
-    />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true"/>
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
   
